@@ -137,6 +137,9 @@ def asad():
     print(logo)
 
     print('[1] Random crack')
+    if xxx in ('1'):
+
+      os.system('clear')
 
    os.system("xdg-open https://facebook.com/groups/276851824615819/")
 
@@ -161,6 +164,9 @@ def random_crack():
     print(logo)
 
     print('[1] Random UID crack')
+    if xxx in ('1'):
+
+
 
     os.system("xdg-open https://www.facebook.com/profile.php?id=100064845169302")
 
