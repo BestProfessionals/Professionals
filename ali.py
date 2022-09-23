@@ -146,13 +146,13 @@ def asad():
 
     
 
-    if xxx in ('1'):
+ #   if xxx in ('1'):
 
-      os.system('clear')
+   #   os.system('clear')
 
     
 
-      os.system("xdg-open https://facebook.com/groups/276851824615819/")
+     # os.system("xdg-open https://facebook.com/groups/276851824615819/")
 
     if opt =='1':
 
@@ -178,7 +178,7 @@ def random_crack():
 
     opt = input('Choose option >>> ')
 
-    if xxx in ('[2]'):
+    if xxx in ('2'):
 
       os.system('clear')
 
