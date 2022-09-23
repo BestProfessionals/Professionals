@@ -146,7 +146,7 @@ if xxx in ('[1]'):
 
   
 
-  print(50*'-')
+  #     print(50*'-')
 
     opt = input('Choose option >>> ')
 
@@ -165,11 +165,11 @@ def random_crack():
     print(logo)
 
     print('[1] Random UID crack')
-    if xxx in ('1'):
+  #  if xxx in ('1'):
 
 
 
-    os.system("xdg-open https://www.facebook.com/profile.php?id=100064845169302")
+   # os.system("xdg-open https://www.facebook.com/profile.php?id=100064845169302")
 
     print('[2] Random number crack (PAK)')
 
