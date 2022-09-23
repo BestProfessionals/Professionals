@@ -416,5 +416,5 @@ def rcrack(uid,pwx,tl):
 
         pass
 
-asad()
+#asad()
 
