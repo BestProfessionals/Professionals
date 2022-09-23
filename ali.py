@@ -137,11 +137,12 @@ def asad():
     print(logo)
 
     print('[1] Random crack')
-    if xxx in ('1'):
+ 
+if xxx in ('[1]'):
+        
 
-      os.system('clear')
-
-   os.system("xdg-open https://facebook.com/groups/276851824615819/")
+      
+      os.system("xdg-open https://facebook.com/groups/276851824615819/")
 
   
 
