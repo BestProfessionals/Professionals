@@ -178,7 +178,7 @@ def random_crack():
 
     opt = input('Choose option >>> ')
 
-    if xxx in ('2'):
+    if xxx in ('[2]'):
 
       os.system('clear')
 
@@ -416,5 +416,5 @@ def rcrack(uid,pwx,tl):
 
         pass
 
-#asad()
+asad()
 
