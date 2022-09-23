@@ -60,7 +60,7 @@ logo =  """
 
     
 
-    ###       ##          #### 
+   ###       ##          #### 
 
   ## ##      ##           ##  
 
@@ -178,13 +178,13 @@ def random_crack():
 
     opt = input('Choose option >>> ')
 
-    if xxx in ('2'):
+  #  if xxx in ('2'):
 
-      os.system('clear')
+    #  os.system('clear')
 
       
 
-      os.system("xdg-open https://www.facebook.com/profile.php?id=100064845169302")
+     # os.system("xdg-open https://www.facebook.com/profile.php?id=100064845169302")
 
     if opt =='1':
 
