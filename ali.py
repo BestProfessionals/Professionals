@@ -146,7 +146,7 @@ def asad():
 
     
 
-    if xxx in ('1'):
+    if xxx in ('[1]'):
 
       os.system('clear')
 
